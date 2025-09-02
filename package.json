@@ -1,0 +1,28 @@
+{
+  "name": "result-management-system",
+  "version": "1.0.0",
+  "description": "student result management system",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaushik-joshy/Result-management-system.git"
+  },
+  "author": "kaushik, ayush, abhijeet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaushik-joshy/Result-management-system/issues"
+  },
+  "homepage": "https://github.com/kaushik-joshy/Result-management-system#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
